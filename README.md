@@ -8,10 +8,10 @@
 <a href="#."><img src="https://skillicons.dev/icons?i=nodejs,md,html,css,js,php,wordpress,python"></img></a>
 <p>و همچنین من از این تکنولوژی ها و برنامه ها استفاده میکنم :</p>
 <a href="#."><img src="https://skillicons.dev/icons?i=discord,ps,pr,github,vscode,visualstudio,androidstudio,git"></img></a>
-<h1>وضعیت گیتهاب من :</h1>
+<h3>وضعیت گیتهاب من :</h1>
 <a href="#."><img src="https://github-readme-stats.vercel.app/api?username=SeniorDiv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"></img></a>
 <a href="#."><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorDiv&layout=compact&theme=buefy&hide_border=true"></img></a>
-<h1>برترین مخازن های من :</h1>
-<a href="#."><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=SandisFarsi&theme=buefy"></img></a>
-<a href="#."><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=PersianLRD&theme=buefy"></img></a>
+<h3>برترین مخازن های من :</h1>
+<a href="/SeniorDiv/SandisFarsi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=SandisFarsi&theme=buefy"></img></a>
+<a href="/SeniorDiv/PersianLRD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=PersianLRD&theme=buefy"></img></a>
 </div>
