@@ -1,5 +1,3 @@
-[![Languages](https://skillicons.dev/icons?i=cpp,md,html,css,js,dart,flutter&theme=dark)](#)
-
 <div dir="rtl">
 <h1>من کی هستم؟</h1>
 <p>لقب من SeniorDivعه ، همچنین به لقب های دیگه ای مثل MasterBe یا Diamond هم شناخته میشم.</p>
@@ -7,5 +5,5 @@
 <p>من به چیزای زیادی علاقه دارم و به دلیل محدودیت تحصیلی رشته پزشکی رو انتخاب کردم اما از روی علاقه به برنامه نویسی، طراحی وب، نویسندگی و خیلی چیزای دیگه رو آوردم تا از تمام توان خودم برای پیشرفت استفاده کنم.</p>
 <h1>من چه توانایی هایی دارم؟</h1>
 <p>من بیشتر روی طراحی back-end کار میکنم ولی توانایی طراحی front-end هم داریم و از این زبان های برنامه نویسی استفاده میکنم :</p>
+<img src="https://prx.midline.ir/?url=https://skillicons.dev/icons?i=nodejs,md,html,css,js,php,wordpress,python"></img>
 </div>
-[![Languages](https://skillicons.dev/icons?i=cpp,md,html,css,js,dart,flutter&theme=dark)](#)
