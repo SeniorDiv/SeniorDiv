@@ -7,5 +7,8 @@
 <p>من بیشتر روی طراحی back-end کار میکنم ولی توانایی طراحی front-end هم داریم و از این زبان های برنامه نویسی استفاده میکنم :</p>
 <img src="https://skillicons.dev/icons?i=nodejs,md,html,css,js,php,wordpress,python"></img>
 <p>و همچنین من از این تکنولوژی ها و برنامه ها استفاده میکنم :</p>
-  <img src="https://skillicons.dev/icons?i=discord,ps,pr,github,vscode,visualstudio,androidstudio,git"></img>
+<img src="https://skillicons.dev/icons?i=discord,ps,pr,github,vscode,visualstudio,androidstudio,git"></img>
+<h1>وضعیت گیتهاب من :</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=SeniorDiv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorDiv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=زبان های برتر"></img>
 </div>
