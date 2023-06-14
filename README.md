@@ -6,4 +6,6 @@
 <h1>من چه توانایی هایی دارم؟</h1>
 <p>من بیشتر روی طراحی back-end کار میکنم ولی توانایی طراحی front-end هم داریم و از این زبان های برنامه نویسی استفاده میکنم :</p>
 <img src="https://skillicons.dev/icons?i=nodejs,md,html,css,js,php,wordpress,python"></img>
+<p>و همچنین من از این تکنولوژی ها و برنامه ها استفاده میکنم :</p>
+  <img src="https://skillicons.dev/icons?i=discord,ps,pr,github,vscode,visualstudio,androidstudio,git"></img>
 </div>
