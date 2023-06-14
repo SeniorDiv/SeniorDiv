@@ -13,5 +13,5 @@
 <a href="#."><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorDiv&layout=compact&theme=buefy&hide_border=true"></img></a>
 <h3>برترین مخازن های من :</h1>
 <a href="https://github.com/SeniorDiv/SandisFarsi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=SandisFarsi&theme=buefy"></img></a>
-<a href="https://github.com/SeniorDiv/PersianLRD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=PersianLRD&theme=buefy"></img></a> 
+<a href="https://github.com/SeniorDiv/PersianLRD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeniorDiv&repo=PersianLRD&theme=buefy"></img></a>
 </div>
