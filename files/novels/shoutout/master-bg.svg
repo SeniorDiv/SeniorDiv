@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none">
+    <defs>
+        <linearGradient id="mainBg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0a0a0a"/>
+            <stop offset="100%" stop-color="#000000"/>
+        </linearGradient>
+        <pattern id="dotGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1" fill="#b8860b" opacity="0.1" />
+        </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#mainBg)"/>
+    <rect width="100%" height="100%" fill="url(#dotGrid)"/>
+    <path d="M 0,160 L 30,160 L 50,180 L 100%,180" fill="none" stroke="#b8860b" stroke-width="1.5" stroke-opacity="0.5"/>
+    <path d="M 0,165 L 20,165 L 40,185 L 100%,185" fill="none" stroke="#00ff99" stroke-width="0.5" stroke-opacity="0.3"/>
+    <g transform="translate(600, 80) scale(0.8)" opacity="0.05">
+        <circle cx="0" cy="0" r="100" fill="none" stroke="#00ff99" stroke-width="4"/>
+        <polygon points="0,-100 86.6,50 -86.6,50" fill="none" stroke="#b8860b" stroke-width="3"/>
+        <polygon points="0,100 -86.6,-50 86.6,-50" fill="none" stroke="#b8860b" stroke-width="3"/>
+        <circle cx="0" cy="0" r="50" fill="none" stroke="#00ff99" stroke-width="2" stroke-dasharray="8,8"/>
+    </g>
+</svg>
